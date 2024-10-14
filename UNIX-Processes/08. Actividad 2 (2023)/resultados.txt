@@ -1,0 +1,3 @@
+Cantidad de líneas del archivo texto0.txt: 21
+Cantidad de líneas del archivo texto1.txt: 23
+Cantidad de líneas del archivo texto2.txt: 18
