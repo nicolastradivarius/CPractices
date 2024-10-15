@@ -9,7 +9,7 @@
 #include <semaphore.h>
 #include <pthread.h>
 
-/** */
+/** 
 Considere un salón unisex donde tanto hombres como mujeres pueden recibir el servicio del salón.
 Sin embargo, hay una condición: hombres y mujeres no pueden estar en el salón al mismo tiempo.
 La segunda condición es que no puede haber más de tres personas en el salón al mismo tiempo.
